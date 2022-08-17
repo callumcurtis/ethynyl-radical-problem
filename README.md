@@ -1,5 +1,5 @@
-# ethynyl-radical-problem
-Exercise in the use of POSIX semaphores.
+# Ethynyl Radical Problem
+An exercise in the use of POSIX semaphores.
 
 ## Acknowledgement
 This exercise is from an assignment created by David Clark and Mike Zastre from
