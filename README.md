@@ -16,3 +16,9 @@ of carbon and hydrogen threads as new threads continue to arrive.
 
 ## Solution
 My solution is featured in [src/solution/kosmos.c](src/solution/kosmos.c).
+
+# Future Work
+This problem could be extended to support:
+* Molecules that can join to form more complex molecules (DAG)
+* Molecules consisting of arbitrary numbers of atoms
+* Molecules consisting of atoms in arbitrary proportions
