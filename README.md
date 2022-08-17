@@ -13,3 +13,6 @@ kosmos. Form ethynyl radicals from two carbon atoms and one hydrogen atom as
 soon as there is sufficient free hydrogen and carbon in the kosmos. Threads
 represent atoms in a 1:1 relationship. Thus, the challenge is to form 2:1 groups
 of carbon and hydrogen threads as new threads continue to arrive.
+
+## Solution
+My solution is featured in [src/solution/kosmos.c](src/solution/kosmos.c).
